@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '7640'
     url: http://www.gutenberg.org/2009/agents/7640
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17843#The-Mysterious-Shin-Shira
 gutenberg_issued: '2006-02-24'
 gutenberg_type: Text
 identifiers:
